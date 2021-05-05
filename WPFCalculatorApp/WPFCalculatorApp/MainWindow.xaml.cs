@@ -42,7 +42,6 @@ namespace WPFCalculatorApp
             var y = Convert.ToInt32(Input2.Text);
             int result = Calculator.Calculator.Sub(x, y);
 
-
             Output.Text = result.ToString();
         }
 
@@ -64,11 +63,18 @@ namespace WPFCalculatorApp
             Output.Text = result.ToString();
         }
 
+        private void Clear_Click(object sender, RoutedEventArgs e)
+        {
+            Input1.Text = null;
+            Input2.Text = null;
+            Output.Text = null;
+        }
+
         private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
         {
 
         }
 
-
+        
     }
 }
