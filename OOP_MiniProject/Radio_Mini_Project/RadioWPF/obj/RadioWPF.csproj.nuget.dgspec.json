@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ylomu\\Documents\\Visual Studio 2019\\C#\\C# OOP\\OOP_MiniProject\\Radio_Mini_Project\\RadioWPF\\RadioWPF.csproj": {}
+    "C:\\Users\\ylomu\\OneDrive\\Documents\\Visual Studio 2019\\C#\\C# Software Dev GitHub Projects\\CSharp-SoftwareDev-Projects\\OOP_MiniProject\\Radio_Mini_Project\\RadioWPF\\RadioWPF.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ylomu\\Documents\\Visual Studio 2019\\C#\\C# OOP\\OOP_MiniProject\\Radio_Mini_Project\\RadioApp\\RadioApp.csproj": {
+    "C:\\Users\\ylomu\\OneDrive\\Documents\\Visual Studio 2019\\C#\\C# Software Dev GitHub Projects\\CSharp-SoftwareDev-Projects\\OOP_MiniProject\\Radio_Mini_Project\\RadioApp\\RadioApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ylomu\\Documents\\Visual Studio 2019\\C#\\C# OOP\\OOP_MiniProject\\Radio_Mini_Project\\RadioApp\\RadioApp.csproj",
+        "projectUniqueName": "C:\\Users\\ylomu\\OneDrive\\Documents\\Visual Studio 2019\\C#\\C# Software Dev GitHub Projects\\CSharp-SoftwareDev-Projects\\OOP_MiniProject\\Radio_Mini_Project\\RadioApp\\RadioApp.csproj",
         "projectName": "RadioApp",
-        "projectPath": "C:\\Users\\ylomu\\Documents\\Visual Studio 2019\\C#\\C# OOP\\OOP_MiniProject\\Radio_Mini_Project\\RadioApp\\RadioApp.csproj",
+        "projectPath": "C:\\Users\\ylomu\\OneDrive\\Documents\\Visual Studio 2019\\C#\\C# Software Dev GitHub Projects\\CSharp-SoftwareDev-Projects\\OOP_MiniProject\\Radio_Mini_Project\\RadioApp\\RadioApp.csproj",
         "packagesPath": "C:\\Users\\ylomu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ylomu\\Documents\\Visual Studio 2019\\C#\\C# OOP\\OOP_MiniProject\\Radio_Mini_Project\\RadioApp\\obj\\",
+        "outputPath": "C:\\Users\\ylomu\\OneDrive\\Documents\\Visual Studio 2019\\C#\\C# Software Dev GitHub Projects\\CSharp-SoftwareDev-Projects\\OOP_MiniProject\\Radio_Mini_Project\\RadioApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ylomu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -56,14 +56,14 @@
         }
       }
     },
-    "C:\\Users\\ylomu\\Documents\\Visual Studio 2019\\C#\\C# OOP\\OOP_MiniProject\\Radio_Mini_Project\\RadioWPF\\RadioWPF.csproj": {
+    "C:\\Users\\ylomu\\OneDrive\\Documents\\Visual Studio 2019\\C#\\C# Software Dev GitHub Projects\\CSharp-SoftwareDev-Projects\\OOP_MiniProject\\Radio_Mini_Project\\RadioWPF\\RadioWPF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ylomu\\Documents\\Visual Studio 2019\\C#\\C# OOP\\OOP_MiniProject\\Radio_Mini_Project\\RadioWPF\\RadioWPF.csproj",
+        "projectUniqueName": "C:\\Users\\ylomu\\OneDrive\\Documents\\Visual Studio 2019\\C#\\C# Software Dev GitHub Projects\\CSharp-SoftwareDev-Projects\\OOP_MiniProject\\Radio_Mini_Project\\RadioWPF\\RadioWPF.csproj",
         "projectName": "RadioWPF",
-        "projectPath": "C:\\Users\\ylomu\\Documents\\Visual Studio 2019\\C#\\C# OOP\\OOP_MiniProject\\Radio_Mini_Project\\RadioWPF\\RadioWPF.csproj",
+        "projectPath": "C:\\Users\\ylomu\\OneDrive\\Documents\\Visual Studio 2019\\C#\\C# Software Dev GitHub Projects\\CSharp-SoftwareDev-Projects\\OOP_MiniProject\\Radio_Mini_Project\\RadioWPF\\RadioWPF.csproj",
         "packagesPath": "C:\\Users\\ylomu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ylomu\\Documents\\Visual Studio 2019\\C#\\C# OOP\\OOP_MiniProject\\Radio_Mini_Project\\RadioWPF\\obj\\",
+        "outputPath": "C:\\Users\\ylomu\\OneDrive\\Documents\\Visual Studio 2019\\C#\\C# Software Dev GitHub Projects\\CSharp-SoftwareDev-Projects\\OOP_MiniProject\\Radio_Mini_Project\\RadioWPF\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ylomu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -79,8 +79,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\ylomu\\Documents\\Visual Studio 2019\\C#\\C# OOP\\OOP_MiniProject\\Radio_Mini_Project\\RadioApp\\RadioApp.csproj": {
-                "projectPath": "C:\\Users\\ylomu\\Documents\\Visual Studio 2019\\C#\\C# OOP\\OOP_MiniProject\\Radio_Mini_Project\\RadioApp\\RadioApp.csproj"
+              "C:\\Users\\ylomu\\OneDrive\\Documents\\Visual Studio 2019\\C#\\C# Software Dev GitHub Projects\\CSharp-SoftwareDev-Projects\\OOP_MiniProject\\Radio_Mini_Project\\RadioApp\\RadioApp.csproj": {
+                "projectPath": "C:\\Users\\ylomu\\OneDrive\\Documents\\Visual Studio 2019\\C#\\C# Software Dev GitHub Projects\\CSharp-SoftwareDev-Projects\\OOP_MiniProject\\Radio_Mini_Project\\RadioApp\\RadioApp.csproj"
               }
             }
           }

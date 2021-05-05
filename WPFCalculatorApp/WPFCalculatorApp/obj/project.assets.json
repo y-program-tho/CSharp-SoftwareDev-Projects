@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ylomu\\OneDrive\\Documents\\Visual Studio 2019\\C#\\WPFCalculatorApp\\WPFCalculatorApp\\WPFCalculatorApp.csproj",
+      "projectUniqueName": "C:\\Users\\ylomu\\OneDrive\\Documents\\Visual Studio 2019\\C#\\C# Software Dev GitHub Projects\\CSharp-SoftwareDev-Projects\\WPFCalculatorApp\\WPFCalculatorApp\\WPFCalculatorApp.csproj",
       "projectName": "WPFCalculatorApp",
-      "projectPath": "C:\\Users\\ylomu\\OneDrive\\Documents\\Visual Studio 2019\\C#\\WPFCalculatorApp\\WPFCalculatorApp\\WPFCalculatorApp.csproj",
+      "projectPath": "C:\\Users\\ylomu\\OneDrive\\Documents\\Visual Studio 2019\\C#\\C# Software Dev GitHub Projects\\CSharp-SoftwareDev-Projects\\WPFCalculatorApp\\WPFCalculatorApp\\WPFCalculatorApp.csproj",
       "packagesPath": "C:\\Users\\ylomu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ylomu\\OneDrive\\Documents\\Visual Studio 2019\\C#\\WPFCalculatorApp\\WPFCalculatorApp\\obj\\",
+      "outputPath": "C:\\Users\\ylomu\\OneDrive\\Documents\\Visual Studio 2019\\C#\\C# Software Dev GitHub Projects\\CSharp-SoftwareDev-Projects\\WPFCalculatorApp\\WPFCalculatorApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ylomu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,8 +52,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\ylomu\\OneDrive\\Documents\\Visual Studio 2019\\C#\\WPFCalculatorApp\\Calculator\\Calculator.csproj": {
-              "projectPath": "C:\\Users\\ylomu\\OneDrive\\Documents\\Visual Studio 2019\\C#\\WPFCalculatorApp\\Calculator\\Calculator.csproj"
+            "C:\\Users\\ylomu\\OneDrive\\Documents\\Visual Studio 2019\\C#\\C# Software Dev GitHub Projects\\CSharp-SoftwareDev-Projects\\WPFCalculatorApp\\Calculator\\Calculator.csproj": {
+              "projectPath": "C:\\Users\\ylomu\\OneDrive\\Documents\\Visual Studio 2019\\C#\\C# Software Dev GitHub Projects\\CSharp-SoftwareDev-Projects\\WPFCalculatorApp\\Calculator\\Calculator.csproj"
             }
           }
         }

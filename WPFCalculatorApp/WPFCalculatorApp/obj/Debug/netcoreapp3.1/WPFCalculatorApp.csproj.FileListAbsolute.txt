@@ -21,3 +21,26 @@ C:\Users\ylomu\Documents\Visual Studio 2019\C#\WPFCalculatorApp\WPFCalculatorApp
 C:\Users\ylomu\Documents\Visual Studio 2019\C#\WPFCalculatorApp\WPFCalculatorApp\obj\Debug\netcoreapp3.1\WPFCalculatorApp.dll
 C:\Users\ylomu\Documents\Visual Studio 2019\C#\WPFCalculatorApp\WPFCalculatorApp\obj\Debug\netcoreapp3.1\WPFCalculatorApp.pdb
 C:\Users\ylomu\Documents\Visual Studio 2019\C#\WPFCalculatorApp\WPFCalculatorApp\obj\Debug\netcoreapp3.1\WPFCalculatorApp.genruntimeconfig.cache
+C:\Users\ylomu\OneDrive\Documents\Visual Studio 2019\C#\C# Software Dev GitHub Projects\CSharp-SoftwareDev-Projects\WPFCalculatorApp\WPFCalculatorApp\bin\Debug\netcoreapp3.1\Calculator.exe
+C:\Users\ylomu\OneDrive\Documents\Visual Studio 2019\C#\C# Software Dev GitHub Projects\CSharp-SoftwareDev-Projects\WPFCalculatorApp\WPFCalculatorApp\bin\Debug\netcoreapp3.1\WPFCalculatorApp.exe
+C:\Users\ylomu\OneDrive\Documents\Visual Studio 2019\C#\C# Software Dev GitHub Projects\CSharp-SoftwareDev-Projects\WPFCalculatorApp\WPFCalculatorApp\bin\Debug\netcoreapp3.1\WPFCalculatorApp.deps.json
+C:\Users\ylomu\OneDrive\Documents\Visual Studio 2019\C#\C# Software Dev GitHub Projects\CSharp-SoftwareDev-Projects\WPFCalculatorApp\WPFCalculatorApp\bin\Debug\netcoreapp3.1\WPFCalculatorApp.runtimeconfig.json
+C:\Users\ylomu\OneDrive\Documents\Visual Studio 2019\C#\C# Software Dev GitHub Projects\CSharp-SoftwareDev-Projects\WPFCalculatorApp\WPFCalculatorApp\bin\Debug\netcoreapp3.1\WPFCalculatorApp.runtimeconfig.dev.json
+C:\Users\ylomu\OneDrive\Documents\Visual Studio 2019\C#\C# Software Dev GitHub Projects\CSharp-SoftwareDev-Projects\WPFCalculatorApp\WPFCalculatorApp\bin\Debug\netcoreapp3.1\WPFCalculatorApp.dll
+C:\Users\ylomu\OneDrive\Documents\Visual Studio 2019\C#\C# Software Dev GitHub Projects\CSharp-SoftwareDev-Projects\WPFCalculatorApp\WPFCalculatorApp\bin\Debug\netcoreapp3.1\WPFCalculatorApp.pdb
+C:\Users\ylomu\OneDrive\Documents\Visual Studio 2019\C#\C# Software Dev GitHub Projects\CSharp-SoftwareDev-Projects\WPFCalculatorApp\WPFCalculatorApp\bin\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\ylomu\OneDrive\Documents\Visual Studio 2019\C#\C# Software Dev GitHub Projects\CSharp-SoftwareDev-Projects\WPFCalculatorApp\WPFCalculatorApp\bin\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\ylomu\OneDrive\Documents\Visual Studio 2019\C#\C# Software Dev GitHub Projects\CSharp-SoftwareDev-Projects\WPFCalculatorApp\WPFCalculatorApp\obj\Debug\netcoreapp3.1\WPFCalculatorApp.csprojAssemblyReference.cache
+C:\Users\ylomu\OneDrive\Documents\Visual Studio 2019\C#\C# Software Dev GitHub Projects\CSharp-SoftwareDev-Projects\WPFCalculatorApp\WPFCalculatorApp\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\ylomu\OneDrive\Documents\Visual Studio 2019\C#\C# Software Dev GitHub Projects\CSharp-SoftwareDev-Projects\WPFCalculatorApp\WPFCalculatorApp\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\ylomu\OneDrive\Documents\Visual Studio 2019\C#\C# Software Dev GitHub Projects\CSharp-SoftwareDev-Projects\WPFCalculatorApp\WPFCalculatorApp\obj\Debug\netcoreapp3.1\WPFCalculatorApp_MarkupCompile.cache
+C:\Users\ylomu\OneDrive\Documents\Visual Studio 2019\C#\C# Software Dev GitHub Projects\CSharp-SoftwareDev-Projects\WPFCalculatorApp\WPFCalculatorApp\obj\Debug\netcoreapp3.1\WPFCalculatorApp_MarkupCompile.lref
+C:\Users\ylomu\OneDrive\Documents\Visual Studio 2019\C#\C# Software Dev GitHub Projects\CSharp-SoftwareDev-Projects\WPFCalculatorApp\WPFCalculatorApp\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\ylomu\OneDrive\Documents\Visual Studio 2019\C#\C# Software Dev GitHub Projects\CSharp-SoftwareDev-Projects\WPFCalculatorApp\WPFCalculatorApp\obj\Debug\netcoreapp3.1\WPFCalculatorApp.g.resources
+C:\Users\ylomu\OneDrive\Documents\Visual Studio 2019\C#\C# Software Dev GitHub Projects\CSharp-SoftwareDev-Projects\WPFCalculatorApp\WPFCalculatorApp\obj\Debug\netcoreapp3.1\WPFCalculatorApp.AssemblyInfoInputs.cache
+C:\Users\ylomu\OneDrive\Documents\Visual Studio 2019\C#\C# Software Dev GitHub Projects\CSharp-SoftwareDev-Projects\WPFCalculatorApp\WPFCalculatorApp\obj\Debug\netcoreapp3.1\WPFCalculatorApp.AssemblyInfo.cs
+C:\Users\ylomu\OneDrive\Documents\Visual Studio 2019\C#\C# Software Dev GitHub Projects\CSharp-SoftwareDev-Projects\WPFCalculatorApp\WPFCalculatorApp\obj\Debug\netcoreapp3.1\WPFCalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\ylomu\OneDrive\Documents\Visual Studio 2019\C#\C# Software Dev GitHub Projects\CSharp-SoftwareDev-Projects\WPFCalculatorApp\WPFCalculatorApp\obj\Debug\netcoreapp3.1\WPFCalculatorApp.csproj.CopyComplete
+C:\Users\ylomu\OneDrive\Documents\Visual Studio 2019\C#\C# Software Dev GitHub Projects\CSharp-SoftwareDev-Projects\WPFCalculatorApp\WPFCalculatorApp\obj\Debug\netcoreapp3.1\WPFCalculatorApp.dll
+C:\Users\ylomu\OneDrive\Documents\Visual Studio 2019\C#\C# Software Dev GitHub Projects\CSharp-SoftwareDev-Projects\WPFCalculatorApp\WPFCalculatorApp\obj\Debug\netcoreapp3.1\WPFCalculatorApp.pdb
+C:\Users\ylomu\OneDrive\Documents\Visual Studio 2019\C#\C# Software Dev GitHub Projects\CSharp-SoftwareDev-Projects\WPFCalculatorApp\WPFCalculatorApp\obj\Debug\netcoreapp3.1\WPFCalculatorApp.genruntimeconfig.cache
