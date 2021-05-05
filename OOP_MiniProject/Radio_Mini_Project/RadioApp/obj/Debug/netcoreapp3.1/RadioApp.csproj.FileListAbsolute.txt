@@ -1,0 +1,18 @@
+C:\Users\ylomu\Desktop\OOP_MiniProject\Radio_Mini_Project\RadioApp\bin\Debug\netcoreapp3.1\RadioApp.deps.json
+C:\Users\ylomu\Desktop\OOP_MiniProject\Radio_Mini_Project\RadioApp\bin\Debug\netcoreapp3.1\RadioApp.dll
+C:\Users\ylomu\Desktop\OOP_MiniProject\Radio_Mini_Project\RadioApp\bin\Debug\netcoreapp3.1\RadioApp.pdb
+C:\Users\ylomu\Desktop\OOP_MiniProject\Radio_Mini_Project\RadioApp\obj\Debug\netcoreapp3.1\RadioApp.csprojAssemblyReference.cache
+C:\Users\ylomu\Desktop\OOP_MiniProject\Radio_Mini_Project\RadioApp\obj\Debug\netcoreapp3.1\RadioApp.AssemblyInfoInputs.cache
+C:\Users\ylomu\Desktop\OOP_MiniProject\Radio_Mini_Project\RadioApp\obj\Debug\netcoreapp3.1\RadioApp.AssemblyInfo.cs
+C:\Users\ylomu\Desktop\OOP_MiniProject\Radio_Mini_Project\RadioApp\obj\Debug\netcoreapp3.1\RadioApp.csproj.CoreCompileInputs.cache
+C:\Users\ylomu\Desktop\OOP_MiniProject\Radio_Mini_Project\RadioApp\obj\Debug\netcoreapp3.1\RadioApp.dll
+C:\Users\ylomu\Desktop\OOP_MiniProject\Radio_Mini_Project\RadioApp\obj\Debug\netcoreapp3.1\RadioApp.pdb
+C:\Users\ylomu\Documents\Visual Studio 2019\C#\C# OOP\OOP_MiniProject\Radio_Mini_Project\RadioApp\bin\Debug\netcoreapp3.1\RadioApp.deps.json
+C:\Users\ylomu\Documents\Visual Studio 2019\C#\C# OOP\OOP_MiniProject\Radio_Mini_Project\RadioApp\bin\Debug\netcoreapp3.1\RadioApp.dll
+C:\Users\ylomu\Documents\Visual Studio 2019\C#\C# OOP\OOP_MiniProject\Radio_Mini_Project\RadioApp\bin\Debug\netcoreapp3.1\RadioApp.pdb
+C:\Users\ylomu\Documents\Visual Studio 2019\C#\C# OOP\OOP_MiniProject\Radio_Mini_Project\RadioApp\obj\Debug\netcoreapp3.1\RadioApp.csprojAssemblyReference.cache
+C:\Users\ylomu\Documents\Visual Studio 2019\C#\C# OOP\OOP_MiniProject\Radio_Mini_Project\RadioApp\obj\Debug\netcoreapp3.1\RadioApp.AssemblyInfoInputs.cache
+C:\Users\ylomu\Documents\Visual Studio 2019\C#\C# OOP\OOP_MiniProject\Radio_Mini_Project\RadioApp\obj\Debug\netcoreapp3.1\RadioApp.AssemblyInfo.cs
+C:\Users\ylomu\Documents\Visual Studio 2019\C#\C# OOP\OOP_MiniProject\Radio_Mini_Project\RadioApp\obj\Debug\netcoreapp3.1\RadioApp.csproj.CoreCompileInputs.cache
+C:\Users\ylomu\Documents\Visual Studio 2019\C#\C# OOP\OOP_MiniProject\Radio_Mini_Project\RadioApp\obj\Debug\netcoreapp3.1\RadioApp.dll
+C:\Users\ylomu\Documents\Visual Studio 2019\C#\C# OOP\OOP_MiniProject\Radio_Mini_Project\RadioApp\obj\Debug\netcoreapp3.1\RadioApp.pdb

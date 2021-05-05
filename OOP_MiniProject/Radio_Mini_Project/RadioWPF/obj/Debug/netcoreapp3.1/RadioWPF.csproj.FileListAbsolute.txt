@@ -1,0 +1,27 @@
+C:\Users\ylomu\Desktop\OOP_MiniProject\Radio_Mini_Project\RadioWPF\obj\Debug\netcoreapp3.1\RadioWPF.csprojAssemblyReference.cache
+C:\Users\ylomu\Desktop\OOP_MiniProject\Radio_Mini_Project\RadioWPF\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\ylomu\Desktop\OOP_MiniProject\Radio_Mini_Project\RadioWPF\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\ylomu\Desktop\OOP_MiniProject\Radio_Mini_Project\RadioWPF\obj\Debug\netcoreapp3.1\RadioWPF_MarkupCompile.cache
+C:\Users\ylomu\Desktop\OOP_MiniProject\Radio_Mini_Project\RadioWPF\obj\Debug\netcoreapp3.1\RadioWPF_MarkupCompile.lref
+C:\Users\ylomu\Documents\Visual Studio 2019\C#\C# OOP\OOP_MiniProject\Radio_Mini_Project\RadioWPF\obj\Debug\netcoreapp3.1\RadioWPF.csprojAssemblyReference.cache
+C:\Users\ylomu\Documents\Visual Studio 2019\C#\C# OOP\OOP_MiniProject\Radio_Mini_Project\RadioWPF\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\ylomu\Documents\Visual Studio 2019\C#\C# OOP\OOP_MiniProject\Radio_Mini_Project\RadioWPF\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\ylomu\Documents\Visual Studio 2019\C#\C# OOP\OOP_MiniProject\Radio_Mini_Project\RadioWPF\obj\Debug\netcoreapp3.1\RadioWPF_MarkupCompile.cache
+C:\Users\ylomu\Documents\Visual Studio 2019\C#\C# OOP\OOP_MiniProject\Radio_Mini_Project\RadioWPF\obj\Debug\netcoreapp3.1\RadioWPF_MarkupCompile.lref
+C:\Users\ylomu\Documents\Visual Studio 2019\C#\C# OOP\OOP_MiniProject\Radio_Mini_Project\RadioWPF\bin\Debug\netcoreapp3.1\RadioWPF.exe
+C:\Users\ylomu\Documents\Visual Studio 2019\C#\C# OOP\OOP_MiniProject\Radio_Mini_Project\RadioWPF\bin\Debug\netcoreapp3.1\RadioWPF.deps.json
+C:\Users\ylomu\Documents\Visual Studio 2019\C#\C# OOP\OOP_MiniProject\Radio_Mini_Project\RadioWPF\bin\Debug\netcoreapp3.1\RadioWPF.runtimeconfig.json
+C:\Users\ylomu\Documents\Visual Studio 2019\C#\C# OOP\OOP_MiniProject\Radio_Mini_Project\RadioWPF\bin\Debug\netcoreapp3.1\RadioWPF.runtimeconfig.dev.json
+C:\Users\ylomu\Documents\Visual Studio 2019\C#\C# OOP\OOP_MiniProject\Radio_Mini_Project\RadioWPF\bin\Debug\netcoreapp3.1\RadioWPF.dll
+C:\Users\ylomu\Documents\Visual Studio 2019\C#\C# OOP\OOP_MiniProject\Radio_Mini_Project\RadioWPF\bin\Debug\netcoreapp3.1\RadioWPF.pdb
+C:\Users\ylomu\Documents\Visual Studio 2019\C#\C# OOP\OOP_MiniProject\Radio_Mini_Project\RadioWPF\bin\Debug\netcoreapp3.1\RadioApp.dll
+C:\Users\ylomu\Documents\Visual Studio 2019\C#\C# OOP\OOP_MiniProject\Radio_Mini_Project\RadioWPF\bin\Debug\netcoreapp3.1\RadioApp.pdb
+C:\Users\ylomu\Documents\Visual Studio 2019\C#\C# OOP\OOP_MiniProject\Radio_Mini_Project\RadioWPF\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\ylomu\Documents\Visual Studio 2019\C#\C# OOP\OOP_MiniProject\Radio_Mini_Project\RadioWPF\obj\Debug\netcoreapp3.1\RadioWPF.g.resources
+C:\Users\ylomu\Documents\Visual Studio 2019\C#\C# OOP\OOP_MiniProject\Radio_Mini_Project\RadioWPF\obj\Debug\netcoreapp3.1\RadioWPF.AssemblyInfoInputs.cache
+C:\Users\ylomu\Documents\Visual Studio 2019\C#\C# OOP\OOP_MiniProject\Radio_Mini_Project\RadioWPF\obj\Debug\netcoreapp3.1\RadioWPF.AssemblyInfo.cs
+C:\Users\ylomu\Documents\Visual Studio 2019\C#\C# OOP\OOP_MiniProject\Radio_Mini_Project\RadioWPF\obj\Debug\netcoreapp3.1\RadioWPF.csproj.CoreCompileInputs.cache
+C:\Users\ylomu\Documents\Visual Studio 2019\C#\C# OOP\OOP_MiniProject\Radio_Mini_Project\RadioWPF\obj\Debug\netcoreapp3.1\RadioWPF.csproj.CopyComplete
+C:\Users\ylomu\Documents\Visual Studio 2019\C#\C# OOP\OOP_MiniProject\Radio_Mini_Project\RadioWPF\obj\Debug\netcoreapp3.1\RadioWPF.dll
+C:\Users\ylomu\Documents\Visual Studio 2019\C#\C# OOP\OOP_MiniProject\Radio_Mini_Project\RadioWPF\obj\Debug\netcoreapp3.1\RadioWPF.pdb
+C:\Users\ylomu\Documents\Visual Studio 2019\C#\C# OOP\OOP_MiniProject\Radio_Mini_Project\RadioWPF\obj\Debug\netcoreapp3.1\RadioWPF.genruntimeconfig.cache

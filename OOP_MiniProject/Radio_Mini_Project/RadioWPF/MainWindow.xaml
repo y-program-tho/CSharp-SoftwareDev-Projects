@@ -1,0 +1,21 @@
+﻿<Window x:Class="RadioWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RadioWPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBlock x:Name="OutputBox" HorizontalAlignment="Center" Margin="0,45,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="81" Width="568"/>
+        <Button x:Name="Channel_1" Content="1" HorizontalAlignment="Left" Margin="71,188,0,0" VerticalAlignment="Top" Height="29" Width="123" Click="Channel_1_Click"/>
+        <Button x:Name="Channel_2" Content="2" HorizontalAlignment="Left" Margin="259,188,0,0" VerticalAlignment="Top" Height="29" Width="123" Click="Channel_2_Click"/>
+        <Button x:Name="Channel_3" Content="3" HorizontalAlignment="Left" Margin="455,188,0,0" VerticalAlignment="Top" Height="29" Width="123" Click="Channel_3_Click"/>
+        <Button x:Name="Channel_4" Content="4" HorizontalAlignment="Left" Margin="637,188,0,0" VerticalAlignment="Top" Height="29" Width="123" Click="Channel_4_Click"/>
+        <Button x:Name="On" Content="On" HorizontalAlignment="Left" Margin="71,293,0,0" VerticalAlignment="Top" Height="98" Width="189" Click="On_Click"/>
+        <Button x:Name="Off" Content="Off" HorizontalAlignment="Left" Margin="571,293,0,0" VerticalAlignment="Top" Height="98" Width="189" Click="Off_Click"/>
+        <Grid HorizontalAlignment="Left" Height="126" VerticalAlignment="Top" Width="194">
+            <Button Content="Button" HorizontalAlignment="Left" Margin="71,293,0,0" VerticalAlignment="Top" Height="98" Width="189"/>
+        </Grid>
+    </Grid>
+</Window>

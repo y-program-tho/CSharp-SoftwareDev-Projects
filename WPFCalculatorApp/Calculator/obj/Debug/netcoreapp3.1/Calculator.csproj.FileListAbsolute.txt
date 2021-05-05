@@ -1,0 +1,13 @@
+C:\Users\ylomu\Documents\Visual Studio 2019\C#\WPFCalculatorApp\Calculator\bin\Debug\netcoreapp3.1\Calculator.exe
+C:\Users\ylomu\Documents\Visual Studio 2019\C#\WPFCalculatorApp\Calculator\bin\Debug\netcoreapp3.1\Calculator.deps.json
+C:\Users\ylomu\Documents\Visual Studio 2019\C#\WPFCalculatorApp\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.json
+C:\Users\ylomu\Documents\Visual Studio 2019\C#\WPFCalculatorApp\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.dev.json
+C:\Users\ylomu\Documents\Visual Studio 2019\C#\WPFCalculatorApp\Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\ylomu\Documents\Visual Studio 2019\C#\WPFCalculatorApp\Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\ylomu\Documents\Visual Studio 2019\C#\WPFCalculatorApp\Calculator\obj\Debug\netcoreapp3.1\Calculator.csprojAssemblyReference.cache
+C:\Users\ylomu\Documents\Visual Studio 2019\C#\WPFCalculatorApp\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+C:\Users\ylomu\Documents\Visual Studio 2019\C#\WPFCalculatorApp\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+C:\Users\ylomu\Documents\Visual Studio 2019\C#\WPFCalculatorApp\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\ylomu\Documents\Visual Studio 2019\C#\WPFCalculatorApp\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\ylomu\Documents\Visual Studio 2019\C#\WPFCalculatorApp\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\ylomu\Documents\Visual Studio 2019\C#\WPFCalculatorApp\Calculator\obj\Debug\netcoreapp3.1\Calculator.genruntimeconfig.cache
